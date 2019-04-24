@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd25a09-5e46-4477-a7de-a5e5a95f541a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pr_django_echarts1$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1556087917896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pr_django_echarts$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1556084375170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/apps.py" />
+        <option value="$PROJECT_DIR$/templates/index.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/14b088a8-6be3-434d-b9a4-5e68fa6b0bdc/console_1.sql" />
+        <option value="$PROJECT_DIR$/app_sqlites/models.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/admin.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b9a18c8e-53d4-4e21-87d4-9a173d05f1ea/console_1.sql" />
+        <option value="$PROJECT_DIR$/app_sqlites/db.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/tests.py" />
+        <option value="$PROJECT_DIR$/pr_django_echarts/urls.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/testdb.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/search.py" />
+        <option value="$PROJECT_DIR$/templates/search_form.html" />
+        <option value="$PROJECT_DIR$/templates/post.html" />
+        <option value="$PROJECT_DIR$/app_sqlites/search2.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/views.py" />
+        <option value="$PROJECT_DIR$/app_sqlites/urls.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/pr_django_echarts/settings.py" />
+        <option value="$PROJECT_DIR$/test/helloworld.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="25" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pr_django_echarts1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pr_django_echarts1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pr_django_echarts\static\js" />
+      <recent name="D:\pr_django_echarts\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.pr_django_echarts">
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pr_django_echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pr_django_echarts" type="Python.DjangoServer" factoryName="Django server" singleton="true">
+      <module name="pr_django_echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pr_django_echarts.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\pr_django_echarts\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.pr_django_echarts" />
+      <item itemvalue="Python.helloworld" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.helloworld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd25a09-5e46-4477-a7de-a5e5a95f541a" name="Default" comment="" />
+      <created>1554876322167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554876322167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3286517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29113925" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2808311" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.2922252" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="manage.py@pr_django_echarts" order="7" visible="true" weight="0.3286517" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3286517" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="9" weight="0.3286517" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app_sqlites/testdb.py</url>
+          <line>49</line>
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/14b088a8-6be3-434d-b9a4-5e68fa6b0bdc/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_sqlites/models.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/views.py" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/settings.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/models.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/tests.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/apps.py" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/urls.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6bceb17c-d700-407d-8f60-6e36f34d0134/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_sqlites/admin.py" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/settings.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/models.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/tests.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/apps.py" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/urls.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6bceb17c-d700-407d-8f60-6e36f34d0134/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6bceb17c-d700-407d-8f60-6e36f34d0134/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/14b088a8-6be3-434d-b9a4-5e68fa6b0bdc/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.py" />
+    <entry file="file://$PROJECT_DIR$/static/js/echarts.js" />
+    <entry file="file://$PROJECT_DIR$/static/css/style.css" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/14b088a8-6be3-434d-b9a4-5e68fa6b0bdc/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b9a18c8e-53d4-4e21-87d4-9a173d05f1ea/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_sqlites/apps.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/admin.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/db.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b9a18c8e-53d4-4e21-87d4-9a173d05f1ea/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b9a18c8e-53d4-4e21-87d4-9a173d05f1ea/schema/main/table/yifu">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_sqlites/tests.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/testdb.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/search.py" />
+    <entry file="file://$PROJECT_DIR$/templates/search_form.html" />
+    <entry file="file://$PROJECT_DIR$/templates/post.html" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/search2.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/models.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/views.py" />
+    <entry file="file://$PROJECT_DIR$/app_sqlites/urls.py" />
+    <entry file="file://$PROJECT_DIR$/app_mysql/tests.py" />
+    <entry file="file://$PROJECT_DIR$/app_mysql/models.py" />
+    <entry file="file://$PROJECT_DIR$/app_mysql/apps.py" />
+    <entry file="file://$PROJECT_DIR$/app_mysql/admin.py" />
+    <entry file="file://$PROJECT_DIR$/app_mysql/views.py" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/settings.py" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/pr_django_echarts/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/helloworld.py" />
+  </component>
+</project>
